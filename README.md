@@ -1,9 +1,3 @@
-# Express, GraphQL example
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?maxAge=2592000)](https://github.com/juffalow/express-graphql-sequelize-example/blob/master/LICENSE)
-
-![out](https://user-images.githubusercontent.com/8142965/56870885-6e11dd00-6a16-11e9-8bba-230476808af2.png)
-
 ## How to run the project
 
 Install dependencies :
@@ -166,13 +160,3 @@ mutation {
   }
 }
 ```
-
-## Old version
-
-Here is a link to an old version, that used `sequelize` and did not use connections:
-
-* [1.4.0](https://github.com/juffalow/express-graphql-sequelize-example/tree/1.4.0)
-
-## License
-
-[MIT license](./LICENSE)
